@@ -4,7 +4,9 @@
 ## 1. Project Overview & Business Context
 
 **Report Name:** Amazon Prime Content Analysis Report
+
 **Purpose/Goal:** To provide a comprehensive, single-view analysis of the Amazon Prime Video catalog, detailing content distribution across ratings, countries, genres, and content type over time.
+
 **Target Audience:** Content Acquisition Managers, Studio Executives, and Market Analysts.
 
 ---
@@ -12,7 +14,9 @@
 ## 2. Data Source and Connection Details
 
 **Primary Data Source:** Amazon Prime Video Catalog Dataset (Cloud Data Warehouse Extract)
+
 **Authentication Method:** Service Account/Cloud Credential
+
 **Data Gateway:** No — data is sourced from a cloud-based environment and does not require an on-premise gateway.
 
 ---
@@ -41,8 +45,11 @@
 ## 4. Data Refresh and Maintenance
 
 **Refresh Frequency:** Weekly (Every Sunday at 3:00 AM UTC)
+
 **Dataset Name in Service:** Amazon_Prime_Content_Catalog_2021
+
 **Workspace Location:** Media & Content Analytics
+
 **Owner/Maintainer:** Content Insights Team
 
 ---
@@ -50,7 +57,9 @@
 ## 5. Technical Specifications
 
 **Power BI Desktop Version:** Latest Stable Release (as of Q4 2023)
+
 **DAX Complexity:** Low to Moderate — primarily simple aggregations and percentage calculations
+
 **Row-Level Security (RLS):** No
 
 ---
