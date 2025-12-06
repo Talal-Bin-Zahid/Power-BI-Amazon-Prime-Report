@@ -23,7 +23,8 @@
 
 ## 3. Report Structure and Key Metrics
 
-**Number of Pages/Tabs:** 1 (The Overview Dashboard)
+**Number of Pages/Tabs:** 1 (The Overview Dashboard) 
+
 **Key Pages/Areas:** Catalog Overview and Distribution Analysis
 
 ### **Core Metrics (KPIs)**
